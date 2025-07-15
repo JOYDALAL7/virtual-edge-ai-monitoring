@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "virtual-edge-ai-monitoring",
+  "private_key_id": "70f8256e7164942a8245e49e3666084740a238e2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCX6QV4nZWKgbC4\nQa8uSKlvpfFabXi/Iyu72WXucbagtqQktxVZO7s3bIaRg0W9b5tvJ1xashMfK5Tc\nFhrF9YPJig7VWwDnOHx+XAkog0Jn+YTrXqX22UhYwWjP/w7Wns4+c55m5JUQTT5g\nee5ZNhHlTB6EEyBvic7OpNEw8MGChJlAcvVeKv+3r/LqnEsIWIrG7qrKZcZbTah1\nqjlYjkIi+4dcEEv02DveQg21RncydKF1YR1JgjfYDNg/L+igoEl/Eklt2tcA8Sh5\n6WpD+LhmH8OfWLSZKWMeWns/cvCwLVReVnD7oeHb4m7xZrBZfjBhFbMwfgzqNijz\nJz9T81XbAgMBAAECggEAAJhNsy6QJV4N/nVouuUB9N6mK//TFzyLW/hP/o0SIAhX\nFZBkqa14NZFb6Dn8De/f9fbQ1RzEF70on2wJaCO8A7q3WtKOawQSSL8SMhxsKCgW\nrdf4Ym0bbBg7Jtq4M32lD82Nc0MLP73DCXGwzfH47qL2WPdnix2eYmTML5rhxyG9\nmY0DlaRQdNeKdb/9UQBLPB66u8+D8SriXPV+0rTWHgCDUOwzIl+5HX12EnDUn5uZ\ndYhPT53Bp1khOulDeJ1REwjJ0+W4FNXKJTCGKbkSzOx12pdS8eD8Fypak/KXQPwI\nRIbUWHrlS3M/0WgMJp9fTlOc+mxWA9oiLy2vMxT/sQKBgQDMetG4e8Y0WoKzmDaL\nTiFjpdmZ/KDFlWbxZ4IMFRVdKebAcAyYJnVYtpl5EZHGmgBWzcb5Z8GDuHEDRD1/\nuzJqi5tVBXt2kdbkAfuDCstQgIOokaNK8PWfiOeqYzQ0mnF6IRWG6V0QOpW1QvbN\nQ2Jpyb52e5tI92oS/GHzT918rQKBgQC+L2hAOEVxxj08tFwKirqTGc27J0mSYKwB\nBP0sZbk8kreziWwKVyw1D8+VZvYfM9OknzA9OR/aQL0qt0vLbZ64sxpVeB47+Ymp\n5E+hKKaRIDJFOb/ZfwvmArg5npH7rWLVBvbmxTpnj3gC1c1rZQvje9ObwYnkV7gZ\n+Y+5oXolpwKBgGTcxGwyqa8TYltCXs1SScgEfBSn94neyzuSqiRZlgMxcwBDhQLc\nHZAX6hY9I2IKftZShK5rjpnxtdU9qPRDm3fQy1sh7CetgolPrQeToHxiGA9jX1/N\nAeuitVtnuc2kzQrIHP1CSUSDEWuqz2Cqt3WlLQz2pb9VQ35//bTuFTu1AoGBAJnb\nynAh1fR8VvA0TT3uC5CT0H83AmscMCrG+XageOILI/hoFXKsIURwHRSV7klB6VeF\nvUXaX+12cFMNZJEXhs+PfZ9lhLgqYXeDD/Sl6VMBBApC9PUkteCHlLhwk1NTauBC\nOR5qspwzUfihNQVMAvkvJPsd8Ms9N+AzqFWZ0DKDAoGBAIu2gau6XZ0hLBrP5vCq\npzMlBqXweFYZhOGefbaMxb1Kgc0j/BcF5O+OFyYEtXjT0W0Qz9Rp8SaGBvc6ttkQ\nkwFe4Vz4R1Olrgnhtc9H6tGFWZijLuD5U3Lun2Mr2RC2DK37QBowulXOMKwhCGIc\nxgJ+ikc7DNlapj8Ad4fn9aZM\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@virtual-edge-ai-monitoring.iam.gserviceaccount.com",
+  "client_id": "115456455834817354714",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40virtual-edge-ai-monitoring.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
